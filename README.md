@@ -3,16 +3,12 @@ Note Taking App in react js
 
 # React Module Test | Notes App (in React)
 
-THIS is the Link of Note Taking App https://note-taking-app-cuvette.vercel.app
+THIS is the Link of Note Taking App [https://note-taking-app-cuvette.vercel.app](https://n-otes.vercel.app/)
 
 
 ## Demo
 
-# Desktop View
-![Logo](https://github.com/AJIT-KUMAR-PANDIT/note_taking_app/blob/master/ReadMe/note_taking_app_desktop_view.gif?raw=true)
 
-# Mobile View
-![Logo](https://github.com/AJIT-KUMAR-PANDIT/note_taking_app/blob/master/ReadMe/note_taking_app_mobile_view.gif?raw=true)
 
 
 ## question
